@@ -1,30 +1,16 @@
 \# ParkWise V4
 
-
-
 Intelligent Parking, Reservation \& Mobility Platform.
-
-
 
 \## Project Status
 
-
-
 Early development — repository foundation.
-
-
 
 \## Vision
 
-
-
 ParkWise V4 is a production-oriented parking platform designed to connect consumers, parking operators, staff, and administrators through a shared real-time system.
 
-
-
 The platform will support:
-
-
 
 \- Live parking availability
 
@@ -50,11 +36,7 @@ The platform will support:
 
 \- AI-assisted parking experiences
 
-
-
 \## Applications
-
-
 
 \- Consumer Web
 
@@ -66,19 +48,11 @@ The platform will support:
 
 \- Admin Portal
 
-
-
 \## Architecture
-
-
 
 ParkWise V4 is being developed as a pnpm monorepo with shared packages and independently deployable applications and services.
 
-
-
 \## Development Principles
-
-
 
 \- Production data must be real and traceable.
 
@@ -96,11 +70,7 @@ ParkWise V4 is being developed as a pnpm monorepo with shared packages and indep
 
 \- Development changes should go through feature branches and pull requests.
 
-
-
 \## Repository Structure
-
-
 
 ```text
 
@@ -116,3 +86,4 @@ ml/               Machine learning work
 
 docs/              Architecture and project documentation
 
+```
