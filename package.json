@@ -5,6 +5,7 @@
   "description": "Intelligent Parking, Reservation & Mobility Platform",
   "packageManager": "pnpm@10.34.5",
   "devDependencies": {
+    "prettier": "^3.9.6",
     "turbo": "^2.10.12"
   }
 }
