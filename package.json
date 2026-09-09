@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "description": "Intelligent Parking, Reservation & Mobility Platform",
-  "packageManager": "pnpm@10.34.5"
+  "packageManager": "pnpm@10.34.5",
+  "devDependencies": {
+    "turbo": "^2.10.12"
+  }
 }
